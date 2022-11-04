@@ -11,3 +11,9 @@ in order to moderate incoming traffic, between 2 web applictions that we host on
 <div>
 <img src=Images/LoadBalancer.png>
 
+## The result
+Nginx will route the incoming traffic, as shown bellow. 
+
+<div>
+<img src=Images/webpage1.png width=400>
+<img src=Images/webpage2.png width=400>
